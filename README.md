@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sawasthi98
-- 👀 I’m interested in front-end web development, cybersecurity, and AI. 
-- 🌱 I’m currently learning full stack web develoment!
-- 💞️ I’m looking to collaborate on anything, really! 
+- 👀 I’m interested in full stack web development, algorithms, and AI. 
 - 📫 How to reach me: 
 -   linkedIn: https://www.linkedin.com/in/saisha-yash-awasthi-a857a1122/
 -   Twitter: https://twitter.com/sawasthi98
