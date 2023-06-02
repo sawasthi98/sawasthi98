@@ -5,11 +5,7 @@ Interests include sustainability, music and entertainment, dance, and I am a mat
 I'm currently learning:
 - Java
 - JavaScript
-- HTMl/CSS
-
-
-
-
+- HTML/CSS
 
 <!---
 sawasthi98/sawasthi98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
