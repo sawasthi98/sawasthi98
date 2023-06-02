@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @sawasthi98
-- 👀 I’m interested in full stack web development, algorithms, and AI. 
-- 📫 How to reach me: 
--   linkedIn: https://www.linkedin.com/in/saisha-yash-awasthi-a857a1122/
--   Twitter: https://twitter.com/sawasthi98
+Hello, fellow programmers! My name is Saisha (Sai-shah with Sai like psy in psychology) and my pronouns are she/her!
+
+Interests include sustainability, music and entertainment, dance, and I am a matcha enthusiast. 
+
+I'm currently learning:
+- Java
+- JavaScript
+- HTMl/CSS
+
+
+
+
 
 <!---
 sawasthi98/sawasthi98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
